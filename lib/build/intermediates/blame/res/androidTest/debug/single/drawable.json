@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/aonauma/Downloads/TrackingU/lib/build/intermediates/res/merged/androidTest/debug/drawable/crop__texture.xml",
+        "source": "/Users/aonauma/Downloads/TrackingU/lib/build/intermediates/bundles/debug/res/drawable/crop__texture.xml"
+    },
+    {
+        "merged": "/Users/aonauma/AndroidStudioProjects/TrackingU/lib/build/intermediates/res/merged/androidTest/debug/drawable/crop__texture.xml",
+        "source": "/Users/aonauma/AndroidStudioProjects/TrackingU/lib/build/intermediates/bundles/debug/res/drawable/crop__texture.xml"
+    },
+    {
+        "merged": "/Users/aonauma/AndroidStudioProjects/TrackingU/lib/build/intermediates/res/merged/androidTest/debug/drawable/crop__selectable_background.xml",
+        "source": "/Users/aonauma/AndroidStudioProjects/TrackingU/lib/build/intermediates/bundles/debug/res/drawable/crop__selectable_background.xml"
+    },
+    {
+        "merged": "/Users/aonauma/Downloads/TrackingU/lib/build/intermediates/res/merged/androidTest/debug/drawable/crop__selectable_background.xml",
+        "source": "/Users/aonauma/Downloads/TrackingU/lib/build/intermediates/bundles/debug/res/drawable/crop__selectable_background.xml"
+    }
+]

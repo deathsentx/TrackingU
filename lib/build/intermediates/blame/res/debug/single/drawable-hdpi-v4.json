@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/aonauma/Downloads/TrackingU/lib/build/intermediates/res/merged/debug/drawable-hdpi-v4/crop__ic_done.png",
+        "source": "/Users/aonauma/Downloads/TrackingU/lib/src/main/res/drawable-hdpi/crop__ic_done.png"
+    },
+    {
+        "merged": "/Users/aonauma/AndroidStudioProjects/TrackingU/lib/build/intermediates/res/merged/debug/drawable-hdpi-v4/crop__ic_done.png",
+        "source": "/Users/aonauma/AndroidStudioProjects/TrackingU/lib/src/main/res/drawable-hdpi/crop__ic_done.png"
+    },
+    {
+        "merged": "/Users/aonauma/AndroidStudioProjects/TrackingU/lib/build/intermediates/res/merged/debug/drawable-hdpi-v4/crop__ic_cancel.png",
+        "source": "/Users/aonauma/AndroidStudioProjects/TrackingU/lib/src/main/res/drawable-hdpi/crop__ic_cancel.png"
+    },
+    {
+        "merged": "/Users/aonauma/AndroidStudioProjects/TrackingU/lib/build/intermediates/res/merged/debug/drawable-hdpi-v4/crop__divider.9.png",
+        "source": "/Users/aonauma/AndroidStudioProjects/TrackingU/lib/src/main/res/drawable-hdpi/crop__divider.9.png"
+    },
+    {
+        "merged": "/Users/aonauma/Downloads/TrackingU/lib/build/intermediates/res/merged/debug/drawable-hdpi-v4/crop__divider.9.png",
+        "source": "/Users/aonauma/Downloads/TrackingU/lib/src/main/res/drawable-hdpi/crop__divider.9.png"
+    },
+    {
+        "merged": "/Users/aonauma/Downloads/TrackingU/lib/build/intermediates/res/merged/debug/drawable-hdpi-v4/crop__ic_cancel.png",
+        "source": "/Users/aonauma/Downloads/TrackingU/lib/src/main/res/drawable-hdpi/crop__ic_cancel.png"
+    }
+]

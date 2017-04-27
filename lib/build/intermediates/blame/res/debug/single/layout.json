@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/aonauma/Downloads/TrackingU/lib/build/intermediates/res/merged/debug/layout/crop__activity_crop.xml",
+        "source": "/Users/aonauma/Downloads/TrackingU/lib/src/main/res/layout/crop__activity_crop.xml"
+    },
+    {
+        "merged": "/Users/aonauma/AndroidStudioProjects/TrackingU/lib/build/intermediates/res/merged/debug/layout/crop__activity_crop.xml",
+        "source": "/Users/aonauma/AndroidStudioProjects/TrackingU/lib/src/main/res/layout/crop__activity_crop.xml"
+    },
+    {
+        "merged": "/Users/aonauma/AndroidStudioProjects/TrackingU/lib/build/intermediates/res/merged/debug/layout/crop__layout_done_cancel.xml",
+        "source": "/Users/aonauma/AndroidStudioProjects/TrackingU/lib/src/main/res/layout/crop__layout_done_cancel.xml"
+    },
+    {
+        "merged": "/Users/aonauma/Downloads/TrackingU/lib/build/intermediates/res/merged/debug/layout/crop__layout_done_cancel.xml",
+        "source": "/Users/aonauma/Downloads/TrackingU/lib/src/main/res/layout/crop__layout_done_cancel.xml"
+    }
+]

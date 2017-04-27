@@ -1,0 +1,43 @@
+
+
+<FrameLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:background="#FFFFFF">
+
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.trackingu.MapsActivity" />
+
+<de.hdodenhof.circleimageview.CircleImageView
+    android:layout_marginTop="4dp"
+    android:layout_marginLeft="0.5dp"
+    android:layout_width="57dp"
+    android:layout_height="55dp"
+    android:layout_gravity="center_horizontal"
+    android:contentDescription="@null"
+    android:id="@+id/profile_image">
+
+</de.hdodenhof.circleimageview.CircleImageView>
+
+</FrameLayout>
+
+
+
+
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--xmlns:tools="http://schemas.android.com/tools"-->
+<!--android:layout_width="fill_parent"-->
+<!--android:layout_height="fill_parent" >-->
+
+<!--<com.google.android.gms.maps.MapView android:id="@+id/mapview"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent" />-->
+
+<!--</LinearLayout>-->
